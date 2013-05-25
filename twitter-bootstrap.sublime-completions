@@ -1,6 +1,6 @@
 {
   // Twitter Bootstrap Auto Completions for HTML Class Name.
-  "scope": "string.quoted",
+  "scope": "string.quoted - source",
 
   "completions":
   [
