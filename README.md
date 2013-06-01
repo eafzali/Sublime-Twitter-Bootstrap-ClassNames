@@ -23,11 +23,11 @@ Tested on Sublime Text 2 Build 2220
 
 ## Installation
 
-* Through the install package to install.
+* Through the **Package control** to install.
 
   ![](https://raw.github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/master/README/through_package_control_install.jpg)
 
-* Waiting for download from Github.
+* Waiting for download from **Github**.
 
 * Happy programming.
 
