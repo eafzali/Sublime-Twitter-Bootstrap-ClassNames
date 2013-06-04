@@ -5,13 +5,15 @@ Twitter Bootstrap ClassNames Completion
 
 ## About
 
-Lightweight, not complex, hint, simply completion. There are no complex snippets, it's just completions.
+Lightweight, not complex, hint, simply auto-completion. There are no complex snippets, it's just completions.
 
 ## Compatible
 
 Tested on Sublime Text 2 Build 2220
 
 ## Features
+
+Make your Sublime text editor auto-completion support Twitter bootstrap ClassNames inside html tag attr quoted.
 
 ![](https://raw.github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/master/README/1.jpg)
 
@@ -21,13 +23,19 @@ Tested on Sublime Text 2 Build 2220
 
 ![](https://raw.github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/master/README/4.jpg)
 
+## API References
+
+http://twitter.github.io/bootstrap/index.html
+
+Version 2.3.2
+
 ## Installation
 
 * Through the **Package control** to install.
 
   ![](https://raw.github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/master/README/through_package_control_install.jpg)
 
-* Waiting for download from **Github**.
+* Waiting download from **Github**.
 
 * Happy programming.
 
