@@ -1,4 +1,4 @@
-Twitter Bootstrap ClassNames Completion
+Twitter Bootstrap ClassNames Completion (With Jade Support)
 ======================
 
 手刻的浪漫
@@ -13,7 +13,8 @@ Tested on Sublime Text 2 Build 2220
 
 ## Features
 
-Make your Sublime text editor auto-completion support Twitter bootstrap ClassNames inside html tag attr quoted.
+Make your Sublime text editor auto-completion support Twitter bootstrap ClassNames inside html tag attr quoted and jade classes.
+
 
 ![](https://raw.github.com/Pleasurazy/Sublime-Twitter-Bootstrap-ClassNames/master/README/1.jpg)
 
